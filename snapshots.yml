@@ -2,3 +2,37 @@ serve: .
 snapshots:
   - name: Home Page
     url: https://www.browserstack.com/
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
+  - name: Pricing
+    url: https://www.browserstack.com/pricing
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
+  - name: Integrations
+    url: https://www.browserstack.com/integrations/automate
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
+  - name: Docs
+    url: https://www.browserstack.com/integrations/docs
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
