@@ -1,4 +1,38 @@
 serve: . 
 snapshots:
   - name: Home Page
-    url: https://www.browserstack.com/
+    url: https://k8s.bsstag.com/
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
+  - name: Pricing
+    url: https://k8s.bsstag.com/pricing
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
+  - name: Integrations
+    url: https://k8s.bsstag.com/integrations/automate
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
+  - name: Docs
+    url: https://k8s.bsstag.com/docs
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
