@@ -1,4 +1,4 @@
 serve: . 
 snapshots:
   - name: Home Page
-    url: /index.html
+    url: https://www.browserstack.com/
