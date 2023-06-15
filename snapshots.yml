@@ -28,7 +28,7 @@ snapshots:
     - 1440
     - 1920
   - name: Docs
-    url: https://www.browserstack.com/integrations/docs
+    url: https://www.browserstack.com/docs
     widths:
     - 375
     - 480
