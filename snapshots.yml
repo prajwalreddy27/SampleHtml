@@ -1,4 +1,38 @@
 serve: . 
 snapshots:
   - name: Home Page
-    url: https://www.browserstack.com/
+    url: https://www.cricbuzz.com/
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
+  - name: LiveScores
+    url: https://www.cricbuzz.com/cricket-match/live-scores
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
+  - name: Schedule
+    url: https://www.cricbuzz.com/cricket-schedule/upcoming-series/international
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
+  - name: Archives
+    url: https://www.cricbuzz.com/cricket-scorecard-archives
+    widths:
+    - 375
+    - 480
+    - 720
+    - 1280
+    - 1440
+    - 1920
