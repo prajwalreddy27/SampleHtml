@@ -10,7 +10,7 @@ snapshots:
     - 1440
     - 1920
   - name: LiveScores
-    url: https://www.cricbuzz.com/cricket-match/live-scores
+    url: https://www.cricbuzz.com/cricket-match/live-scores/
     widths:
     - 375
     - 480
@@ -19,7 +19,7 @@ snapshots:
     - 1440
     - 1920
   - name: Schedule
-    url: https://www.cricbuzz.com/cricket-schedule/upcoming-series/international
+    url: https://www.cricbuzz.com/cricket-schedule/upcoming-series/international/
     widths:
     - 375
     - 480
@@ -28,7 +28,7 @@ snapshots:
     - 1440
     - 1920
   - name: Archives
-    url: https://www.cricbuzz.com/cricket-scorecard-archives
+    url: https://www.cricbuzz.com/cricket-scorecard-archives/
     widths:
     - 375
     - 480
